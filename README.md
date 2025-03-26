@@ -60,7 +60,9 @@ The File Handling Utility program is a complete demonstration of file operations
 The project is implemented in Visual Studio Code (VS Code) and showcases the practical use of Java's file handling capabilities.
 This program is highly relevant in software development, automation, and data processing applications. It is a valuable skill for anyone working with file management in Java, whether for educational, professional, or internship-related tasks.
 
+## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/9bfb2810-b1c7-46c9-a747-040617dd205f)
 
 
 
